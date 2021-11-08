@@ -1,0 +1,17 @@
+name,role,alias,real_name,origin,race,gender,affiliation,appearances,voice_actor,passive1,passive2,basic1,basic2,basic3,signature1,signature2,ultimate,basic1_creds,basic2_creds,basic3_creds,signature1_creds,signature2_creds,ultimate_points
+ Brimstone, Controller,Big Man,, United States,Human, Male,VALORANT Protocol,VALORANT,Steve Blum,,,Stim Beacon,Incendiary,,Sky Smoke,,Orbital Strike,100,250,,100,,7
+ Viper, Controller,,Sabine, United States,Human, Female,VALORANT Protocol,VALORANT,Ashly Burch,Fuel,Toxin,Snake Bite,Poison Cloud,,Toxic Screen,,Viper's Pit,200,200,,0,,7
+ Omen, Controller,"""Ja-"" (partial reveal)",,Unknown,Radiant, Male,VALORANT Protocol,VALORANT,Jason Marnocha,,,Shrouded Step,Paranoia,,Dark Cover,,From the Shadows,150,300,,100,,7
+ Killjoy, Sentinel,,, Germany,Human, Female,VALORANT Protocol,VALORANT,Eva Feiler,,,Nanoswarm,Alarmbot,,Turret,,Lockdown,200,200,,0,,7
+ Cypher, Sentinel,,Aamir, Morocco,Human, Male,VALORANT Protocol,VALORANT,Nabil Elouahabi,,,Trapwire,Cyber Cage,,Spycam,,Neural Theft,200,100,,0,,6
+ Sova, Initiator,,, Russia,Human, Male,VALORANT Protocol,VALORANT,Aaron Vodovoz,,,Owl Drone,Shock Bolt,,Recon Bolt,,Hunter's Fury,400,150,,0,,8
+ Sage, Sentinel,,, China,Radiant, Female,VALORANT Protocol,VALORANT,Naomi Yang,,,Barrier Orb,Slow Orb,,Healing Orb,,Resurrection,400,200,,0,,8
+ Phoenix, Duelist,,, United Kingdom,Radiant, Male,VALORANT Protocol,VALORANT,Afolabi Alli,,,Blaze,Curveball,,Hot Hands,,Run It Back,200,250,,0,,6
+ Jett, Duelist,,Joon-Hee, South Korea,Radiant, Female,VALORANT Protocol,VALORANT,Shannon Williams,Drift,,Cloudburst,Updraft,,Tailwind,,Blade Storm,200,150,,0,,7
+ Reyna, Duelist,,, Mexico,Radiant, Female,VALORANT Protocol,VALORANT,Karina Altamirano,Soul Harvest,,Leer,,,Devour,Dismiss,Empress,250,,,200,200,6
+ Raze, Duelist,,, Brazil,Human, Female,VALORANT Protocol,VALORANT,Carolina Ravassa,,,Boom Bot,Blast Pack,,Paint Shells,,Showstopper,300,200,,0,,8
+ Breach, Initiator,Breachy,, Sweden,Human, Male,VALORANT Protocol,VALORANT,David Menkin,,,Aftershock,Flashpoint,,Fault Line,,Rolling Thunder,200,250,,0,,7
+ Skye, Initiator,,, Australia,Radiant, Female,VALORANT Protocol,VALORANT,Miranda O'Hare,,,Regrowth,Trailblazer,,Guiding Light,,Seekers,200,250,,250,,7
+ Yoru, Duelist,,, Japan,Radiant, Male,VALORANT Protocol,VALORANT,Daisuke Takahashi,,,Fakeout,Blindside,,Gatecrash,,Dimensional Drift,100,250,,0,,6
+ Astra, Controller,,, Ghana,Radiant, Female,VALORANT Protocol,VALORANT,Effie Nkrumah,,,Gravity Well,Nova Pulse,Nebula / Dissipate,Astral Form,,Cosmic Divide,,,,150,,7
+ KAY/O, Initiator,,,Alternate Timeline Earth,Robot, Male,VALORANT Protocol,VALORANT,Gabe Kunda,,,FRAG/ment,FLASH/drive,,ZERO/point,,NULL/cmd,200,250,,0,,7
