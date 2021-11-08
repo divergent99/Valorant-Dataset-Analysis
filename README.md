@@ -26,3 +26,5 @@ In-depth Weapon description related to their Fire Power and Efficiency
 
 9. Weapons not included in the Data set
 Auxiliary Weapons in Valorant
+
+View Notebook here : https://nbviewer.org/github/divergent99/Valorant-Dataset-Analysis/blob/main/VALORANT%20Stats%20Analysis-checkpoint.ipynb
